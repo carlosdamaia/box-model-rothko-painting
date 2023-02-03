@@ -7,4 +7,4 @@
 
 <img alt="preview" src="/print-index.png">
 
-<p>I'm currently learning React, I don't consider myself a begginer, but is always good to keep some basic concepts sharp in my mind. My current objective is to learn more about React on FreeCodeCamp, but first I have to complete some of the begginer courses.</p>
+<p>I'm currently learning React, I don't consider myself a begginer, but it's always good to keep some basic concepts sharp in my mind. My current objective is to learn more about React on FreeCodeCamp, but first I have to complete some of the begginer courses.</p>
